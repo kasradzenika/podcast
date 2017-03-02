@@ -3,7 +3,7 @@
   <channel>
 
     <title>@DV’s podcast - Posts</title>
-    <link>https://kasradzenika.github.io/podcast/posts/index.xml</link>
+    <link>http://localhost:1313/podcast/posts/index.xml</link>
     <description>All entries in Posts on podcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -14,10 +14,10 @@
       
       <item>
         <title>Chilly Sh*t</title>
-        <link>https://kasradzenika.github.io/podcast/posts/chillyshit/</link>
+        <link>http://localhost:1313/podcast/posts/chillyshit/</link>
         <pubDate>Wed, 01 Mar 2017 01:07:40 +0400</pubDate>
         <author> (DV )</author>
-        <guid>https://kasradzenika.github.io/podcast/posts/chillyshit/</guid>
+        <guid>http://localhost:1313/podcast/posts/chillyshit/</guid>
         <description>&lt;p&gt;
     &lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/166784861&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
 
@@ -29,10 +29,10 @@
       
       <item>
         <title>Khrik</title>
-        <link>https://kasradzenika.github.io/podcast/posts/khrik/</link>
+        <link>http://localhost:1313/podcast/posts/khrik/</link>
         <pubDate>Wed, 01 Mar 2017 01:07:40 +0400</pubDate>
         <author> (DV )</author>
-        <guid>https://kasradzenika.github.io/podcast/posts/khrik/</guid>
+        <guid>http://localhost:1313/podcast/posts/khrik/</guid>
         <description>&lt;p&gt;
     &lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/182391380&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
 
