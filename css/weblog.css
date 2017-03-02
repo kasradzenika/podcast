@@ -6,7 +6,7 @@ body {
   line-height: 24px;
 }
 
-a[href] {
+a {
 	color: #476286;
 	text-decoration: none;
 }
@@ -54,7 +54,7 @@ blockquote p:last-child {
 /* Header */
 
 header {
-  padding: 40px 0 0 0;
+  /*padding: 40px 0 0 0;*/
 }
 
 header h1 {
@@ -82,7 +82,8 @@ nav ul {
 }
 
 nav ul > li {
-  background-color: #fafafa;
+  color: #ffffff;
+  background-color: #545454;
   display: inline;
   float: left;
   padding: 10px;
@@ -90,6 +91,30 @@ nav ul > li {
   text-transform: uppercase;
   font-size: 9pt;
   font-weight: normal;
+}
+
+.main_menu_link {
+    color: #ffffff;
+}
+
+.about{
+  color: #ffffff;
+  background-color: #545454;
+  display: inline;
+  float: right;
+  padding: 10px;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 9pt;
+  font-weight: normal;
+}
+
+.top_line {
+    background-color: #545454;
+    position:absolute;
+    z-index: -10;
+    width:100%;
+    height:44px;
 }
 
 .rss-icon {
@@ -343,8 +368,8 @@ and (max-width: 780px) {
     padding: 0;
   }
 
-  nav ul > li {
-    background-color: #fafafa;
+  .about, nav ul > li {
+    background-color: #545454;
     display:list-item;
     float: none;
     margin: 0;
