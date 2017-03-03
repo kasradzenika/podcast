@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 
-    <title>@Nika’s podcast - Posts</title>
+    <title>@კვარკი’s პოდკასტი - Posts</title>
     <link>https://kasradzenika.github.io/podcast/posts/index.xml</link>
-    <description>All entries in Posts on podcast</description>
+    <description>All entries in Posts on პოდკასტი</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ka-GE</language>
     
-    <lastBuildDate>Wed, 01 Mar 2017 01:07:40 +0400</lastBuildDate>
+    <lastBuildDate>Sun, 05 Mar 2017 01:07:40 +0400</lastBuildDate>
     <atom:link href="/podcast/posts/index.xml" rel="self" type="application/rss+xml" />
     
       
       <item>
         <title>Chilly Sh*t</title>
         <link>https://kasradzenika.github.io/podcast/posts/chillyshit/</link>
-        <pubDate>Wed, 01 Mar 2017 01:07:40 +0400</pubDate>
-        <author> (Nika )</author>
+        <pubDate>Sun, 05 Mar 2017 01:07:40 +0400</pubDate>
+        <author> (ნიკა კასრაძე)</author>
         <guid>https://kasradzenika.github.io/podcast/posts/chillyshit/</guid>
         <description>&lt;p&gt;
     &lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/166784861&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
-
-    this one rather be called &#34;Have Nothing to Do While Waiting My Transit in Logan Airport&#34; :))
+    
+    ლოგანის აეროპორტში ფრენებს შორის გამიქსული მუსიკა :))
 &lt;/p&gt;</description>
       </item>
       
@@ -31,14 +31,12 @@
         <title>Khrik</title>
         <link>https://kasradzenika.github.io/podcast/posts/khrik/</link>
         <pubDate>Wed, 01 Mar 2017 01:07:40 +0400</pubDate>
-        <author> (Nika )</author>
+        <author> (ნიკა კასრაძე)</author>
         <guid>https://kasradzenika.github.io/podcast/posts/khrik/</guid>
         <description>&lt;p&gt;
     &lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/182391380&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
 
-    music created for Hack.TBILISI hackathon
-    &lt;br/&gt;
-    couldn&#39;t make it to the top 10 tho :(
+    HackTBILISI ჰაკათონისთვის შექმნილი თამაშის საუნდტრეკი
 &lt;/p&gt;
 </description>
       </item>

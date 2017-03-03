@@ -15,7 +15,7 @@ a:hover {
   text-decoration: underline;
 }
 
-h1, h2, h3, h4 {
+h1, h2, h3, h4, h5, h6 {
   color: #666666;
 }
 
@@ -63,7 +63,17 @@ header h1 {
   font-size: 30px;
   line-height: 32px;
   margin: 0 auto;
-  padding: 10px 10px 0 10px;
+  padding: 20px 10px 0 10px;
+  max-width: 720px;
+  color: #5B636E;
+}
+
+header h5 {
+  text-align: left;
+  vertical-align: middle;
+  line-height: 32px;
+  margin: 0 auto;
+  padding: 0px 0px 20px 10px;
   max-width: 720px;
   color: #5B636E;
 }
@@ -141,8 +151,13 @@ nav ul > li {
 }
 
 .post, .page, .post-groups {
-  margin: 40px auto;
+  margin: auto;
   max-width: 780px;
+  padding: 0px 40px 20px 40px;
+}
+
+.post:hover { 
+    background-color: #fdfdfd;
 }
 
 .micropost > p, .post > p, .page > p {
@@ -359,6 +374,11 @@ and (max-width: 780px) {
 
   header h1 {
     font-size: 22px;
+    line-height: 30px;
+    text-align: center;
+  }
+    
+  header h5 {
     line-height: 30px;
     text-align: center;
   }
