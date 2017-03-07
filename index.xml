@@ -1,48 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-
-    <title>@კვარკი’s პოდკასტი - პოდკასტი</title>
+    <title>პოდკასტი</title>
     <link>https://kasradzenika.github.io/podcast/index.xml</link>
-    <description>All entries in პოდკასტი on პოდკასტი</description>
+    <description>Recent content on პოდკასტი</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ka-GE</language>
-    
     <lastBuildDate>Sun, 05 Mar 2017 01:07:40 +0400</lastBuildDate>
-    <atom:link href="/podcast/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kasradzenika.github.io/podcast/index.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Chilly Sh*t</title>
+      <link>https://kasradzenika.github.io/podcast/posts/chillyshit/</link>
+      <pubDate>Sun, 05 Mar 2017 01:07:40 +0400</pubDate>
       
-      <item>
-        <title>Chilly Sh*t</title>
-        <link>https://kasradzenika.github.io/podcast/posts/chillyshit/</link>
-        <pubDate>Sun, 05 Mar 2017 01:07:40 +0400</pubDate>
-        <author> (ნიკა კასრაძე)</author>
-        <guid>https://kasradzenika.github.io/podcast/posts/chillyshit/</guid>
-        <description>&lt;p&gt;
+      <guid>https://kasradzenika.github.io/podcast/posts/chillyshit/</guid>
+      <description>&lt;p&gt;
     &lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/166784861&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
     
     ლოგანის აეროპორტში ფრენებს შორის გამიქსული მუსიკა :))
 &lt;/p&gt;</description>
-      </item>
-      
+    </item>
     
+    <item>
+      <title>Khrik</title>
+      <link>https://kasradzenika.github.io/podcast/posts/khrik/</link>
+      <pubDate>Wed, 01 Mar 2017 01:07:40 +0400</pubDate>
       
-      <item>
-        <title>Khrik</title>
-        <link>https://kasradzenika.github.io/podcast/posts/khrik/</link>
-        <pubDate>Wed, 01 Mar 2017 01:07:40 +0400</pubDate>
-        <author> (ნიკა კასრაძე)</author>
-        <guid>https://kasradzenika.github.io/podcast/posts/khrik/</guid>
-        <description>&lt;p&gt;
+      <guid>https://kasradzenika.github.io/podcast/posts/khrik/</guid>
+      <description>&lt;p&gt;
     &lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/182391380&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
 
     HackTBILISI ჰაკათონისთვის შექმნილი თამაშის საუნდტრეკი
 &lt;/p&gt;
 </description>
-      </item>
-      
+    </item>
     
+    <item>
+      <title>შესახებ</title>
+      <link>https://kasradzenika.github.io/podcast/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
+      <guid>https://kasradzenika.github.io/podcast/about/</guid>
+      <description>&lt;p&gt;
+    &lt;h3&gt;პოდკასტისა და ავტორის შესახებ&lt;/h3&gt;
+    &lt;br/&gt;
+    &lt;div&gt;
+        მე ვარ ნიკა კასრაძე. ამჟამად ვარ VRex Immersive Inc-ის მთავარი პროგრამისტი და ამ სექციას მალე დავანავაროტებ, დროებით
+        &lt;br/&gt;&lt;br/&gt;
+        კონტაქტი:
+        &lt;br/&gt;
+        fb.com/DeepVigilant
+    &lt;/div&gt;
+&lt;/p&gt;</description>
+    </item>
     
   </channel>
 </rss>
